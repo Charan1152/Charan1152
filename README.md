@@ -1,16 +1,12 @@
-### Hi there 👋
-
-
-**Charan1152/Charan1152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### ABOUT ME
+```Java
+import Earth.Life.*;
+public class Life{
+  public static void main(String args[]){
+     Human h = new Life();
+     h.birthOn('18-10-2003');
+     h.passionOn('Programming and Data Science');
+     Dreams d = {'Btech.','Bsc.'};
+     int
+     }
+}
